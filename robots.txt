@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deefegaev.isserl.is/sitemap.xml
